@@ -1,3 +1,4 @@
+DONOT CLONE OR COPY: THIS REPO IS A PROOF OF CONCEPT REPO AND MAY NOT WORK
 ## Description
 
 **BlackArch Linux** is an Arch Linux-based penetration testing distribution for
